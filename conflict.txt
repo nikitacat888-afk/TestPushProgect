@@ -1,1 +1,1 @@
-line 1: changes from branch A
+line 1: merged changes from A and B
